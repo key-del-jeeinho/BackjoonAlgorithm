@@ -1,3 +1,5 @@
+package io_and_arithmetic_operation;
+
 //https://www.acmicpc.net/problem/10171
 public class Cat {
     /* 출력대상

@@ -1,3 +1,5 @@
+package io_and_arithmetic_operation;
+
 //https://www.acmicpc.net/problem/10718
 public class WeLoveKriii {
     public static void main(String[] args) {
